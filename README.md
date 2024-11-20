@@ -1,3 +1,5 @@
+*This is a personal learning project and is not currently live. I'm still working on this. --gutterpupper*
+
 # Bluesky Labeler Starter Kit
 
 Use this repository to get started with your own Bluesky Labeler. Click the "Use this template" button above to create a new repository, and then follow the instructions below.
