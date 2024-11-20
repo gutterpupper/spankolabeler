@@ -1,4 +1,4 @@
-This is a personal learning project and not currently live. I'm still working on this. --gutterpupper*
+*This is a personal learning project and is not currently live. I'm still working on this. --gutterpupper*
 
 # Bluesky Labeler Starter Kit
 
